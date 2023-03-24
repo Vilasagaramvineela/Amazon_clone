@@ -10,6 +10,7 @@ function App() {
       <Navbar />
       <Banner />
       <Product />
+      <Footer />
     </div>
   );
 }
